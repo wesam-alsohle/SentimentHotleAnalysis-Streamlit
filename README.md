@@ -32,7 +32,6 @@ The objective of the project is to create a web application which will Analysis 
 
 <br>
 
-## Video Demonstration
 
 **Application 1 - User Input**          
 
